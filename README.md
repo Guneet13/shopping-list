@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
 
+Shopping List app is very simple app where user can add items to a list and it will be displayed on the webpage. If you are interested in the demonstartion, I have included the youTube link: 
+
+https://youtu.be/iKFe5Q8HQ2g
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
