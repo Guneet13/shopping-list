@@ -1,0 +1,11 @@
+.row{
+  padding: 5px;
+  margin: 20px;
+}
+.input-group{
+  text-align: center;
+}
+.list-group-item{
+  margin-left: 20px;
+  margin-right: 20px;
+}
